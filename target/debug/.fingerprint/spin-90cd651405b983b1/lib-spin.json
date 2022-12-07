@@ -1,0 +1,1 @@
+{"rustc":1963664527410474588,"features":"[]","target":17810170692256069056,"profile":8987646332441898785,"path":8427665377244175428,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/spin-90cd651405b983b1/dep-lib-spin"}}],"rustflags":["-C","link-arg=-fuse-ld=/usr/local/bin/zld"],"metadata":6620005600999123125,"config":2202906307356721367,"compile_kind":0}

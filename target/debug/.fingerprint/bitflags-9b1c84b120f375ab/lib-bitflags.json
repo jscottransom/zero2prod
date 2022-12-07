@@ -1,0 +1,1 @@
+{"rustc":1963664527410474588,"features":"[]","target":7112745982619283648,"profile":8344124108420085910,"path":5372852807841337063,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/bitflags-9b1c84b120f375ab/dep-lib-bitflags"}}],"rustflags":["-C","link-arg=-fuse-ld=/usr/local/bin/zld"],"metadata":14564035643000669268,"config":2202906307356721367,"compile_kind":0}

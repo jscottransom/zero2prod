@@ -1,0 +1,11 @@
+/Users/jscoran/zero2prod/target/debug/deps/futures_task-634a4b9e9395839f.rmeta: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/arc_wake.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker_ref.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/Users/jscoran/zero2prod/target/debug/deps/futures_task-634a4b9e9395839f.d: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/arc_wake.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker_ref.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs
+
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/lib.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/spawn.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/arc_wake.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/waker_ref.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/future_obj.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.25/src/noop_waker.rs:

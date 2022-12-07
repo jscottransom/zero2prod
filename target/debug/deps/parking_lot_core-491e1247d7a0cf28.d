@@ -1,0 +1,11 @@
+/Users/jscoran/zero2prod/target/debug/deps/parking_lot_core-491e1247d7a0cf28.rmeta: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/parking_lot.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/spinwait.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/mod.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/util.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/word_lock.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/unix.rs
+
+/Users/jscoran/zero2prod/target/debug/deps/parking_lot_core-491e1247d7a0cf28.d: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/parking_lot.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/spinwait.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/mod.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/util.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/word_lock.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/unix.rs
+
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/lib.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/parking_lot.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/spinwait.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/mod.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/util.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/word_lock.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.9.4/src/thread_parker/unix.rs:

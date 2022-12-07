@@ -1,0 +1,11 @@
+/Users/jscoran/zero2prod/target/debug/deps/tokio_rustls-e5770e5a45ae5502.rmeta: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs
+
+/Users/jscoran/zero2prod/target/debug/deps/libtokio_rustls-e5770e5a45ae5502.rlib: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs
+
+/Users/jscoran/zero2prod/target/debug/deps/tokio_rustls-e5770e5a45ae5502.d: /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs /Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs
+
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/lib.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/client.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/mod.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/common/handshake.rs:
+/Users/jscoran/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.22.0/src/server.rs:
