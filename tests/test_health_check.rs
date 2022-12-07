@@ -1,7 +1,7 @@
-use zero2prod::configuration::get_configuration;
-use zero2prod::startup::run;
 use sqlx::PgPool;
 use std::net::TcpListener;
+use zero2prod::configuration::get_configuration;
+use zero2prod::startup::run;
 
 pub struct TestApp {
     pub address: String,
@@ -31,7 +31,9 @@ async fn spawn_app() -> TestApp {
     let address = format!("http://127.0.0.1:{}", port);
 
     let configuration = get_configuration().expect("Failed to retrieve config");
-    let connection_pool = PgPool::connect(&configuration.database.connection_string()).await.expect("Failed to connect to Postgres");
+    let connection_pool = PgPool::connect(&configuration.database.connection_string())
+        .await
+        .expect("Failed to connect to Postgres");
     let server = run(listener, connection_pool.clone()).expect("Failed to bind address");
 
     // Launch the server as a background task
@@ -41,9 +43,8 @@ async fn spawn_app() -> TestApp {
 
     TestApp {
         address,
-        db_pool: connection_pool
+        db_pool: connection_pool,
     }
-    
 }
 
 #[tokio::test]
@@ -80,7 +81,7 @@ async fn subscribe_returns_a_400_when_data_is_missing() {
     // Arrange
     let app = spawn_app().await;
     let client = reqwest::Client::new();
-    
+
     let test_cases = vec![
         ("name=le%20guin", "missing the email"),
         ("email=ursula_le_guin%40gmail.com", "missing the name"),
@@ -106,4 +107,3 @@ async fn subscribe_returns_a_400_when_data_is_missing() {
         );
     }
 }
-

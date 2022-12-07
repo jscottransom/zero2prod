@@ -6,10 +6,9 @@ use sqlx::PgPool;
 use std::net::TcpListener;
 
 pub fn run(listener: TcpListener, db_pool: PgPool) -> Result<Server, std::io::Error> {
-    
     // Wrap in a smart pointer
     let db_pool = web::Data::new(db_pool);
-    
+
     // Using a closure captures the connection variable
     let server = HttpServer::new(move || {
         App::new()
